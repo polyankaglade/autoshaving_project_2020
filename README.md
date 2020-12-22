@@ -4,7 +4,7 @@
 
 [Отчет (eng)](https://docs.google.com/document/d/1FYkekhNb7sOFXjIawUwOUmNSuf0j3NyQ8ddWlJeaA0k/edit?usp=sharing)
 
-[Презентация]()
+[Презентация](https://docs.google.com/presentation/d/1EhnfB3wuJFnXnpF3jcF5z0zpGHSagnKs5mm5RUwsXhQ/edit?usp=sharing)
 
 [Предсказания моделей](https://docs.google.com/spreadsheets/d/1An5a-AwULjZdOwNeOJpzQCXnwK169yWyskPuAGYe9_c/edit?usp=sharing)
 
