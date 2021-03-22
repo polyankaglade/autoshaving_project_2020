@@ -4,7 +4,7 @@
 
 ### [Rewiew (eng)](https://docs.google.com/document/d/1FYkekhNb7sOFXjIawUwOUmNSuf0j3NyQ8ddWlJeaA0k/edit?usp=sharing)
 
-[Presentation (rus)](https://docs.google.com/presentation/d/1EhnfB3wuJFnXnpF3jcF5z0zpGHSagnKs5mm5RUwsXhQ/edit?usp=sharing)
+[Presentation (eng)](https://docs.google.com/presentation/d/1EhnfB3wuJFnXnpF3jcF5z0zpGHSagnKs5mm5RUwsXhQ/edit?usp=sharing)
 
 [Model predictions](https://docs.google.com/spreadsheets/d/1An5a-AwULjZdOwNeOJpzQCXnwK169yWyskPuAGYe9_c/edit?usp=sharing)
 
